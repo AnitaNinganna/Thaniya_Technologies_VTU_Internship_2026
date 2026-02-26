@@ -128,3 +128,27 @@ It returns:
 - Learned REST API basics
 - Understood Express server setup
 - Gained clarity on industry-level project structure
+# Day 1 – Git & Full Stack Basics
+
+## Topics Learned
+
+- How real world applications work
+- Frontend, Backend, Database flow
+- What is REST API
+- Basic Express.js server setup
+- Project folder structure
+- Industry expectations from interns
+
+## Express Code Understood
+
+```javascript
+const express = require("express");
+const app = express();
+
+app.get('/hello', (req, res) => {
+    res.json({ message: "Hello Interns!" });
+});
+
+app.listen(3000, () => {
+    console.log('Server is running on port 3000');
+});
