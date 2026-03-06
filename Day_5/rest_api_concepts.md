@@ -14,10 +14,8 @@ work to GitHub.
 
 6
 
-## Show Your Work (Links)
 
-Reference Links:
-https://github.com/samruddhiarabhavi/Plant-diseases-detection-and-pesticides-suggestions
+
 
 ## Learnings / Outcomes
 
